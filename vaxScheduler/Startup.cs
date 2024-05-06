@@ -24,6 +24,16 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddControllers();
+        services.AddCors(options =>
+        {
+           options.AddPolicy("AllowReactFrontend",
+                builder =>
+                {
+                    builder.WithOrigins("http://localhost:3000")
+                           .AllowAnyMethod()
+                           .AllowAnyHeader();
+                });
+        });
         services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(options =>
             {
@@ -37,6 +47,7 @@ public class Startup
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["JWt:SecretKey"]))
                 };
             });
+
         services.AddDbContext<DbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("myCon")));
         services.AddIdentity<IdentityUser<int>, IdentityRole<int>>().AddEntityFrameworkStores<DbContext>().AddDefaultTokenProviders();
         services.AddControllersWithViews();
@@ -64,6 +75,8 @@ public class Startup
         app.UseHttpsRedirection();
         app.UseStaticFiles();
 
+        app.UseCors("AllowReactFrontend");
+        
         app.UseRouting();
 
         app.UseAuthentication();

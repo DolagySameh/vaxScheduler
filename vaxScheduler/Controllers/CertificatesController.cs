@@ -4,7 +4,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.VisualBasic;
 using vaxScheduler.Data;
 using vaxScheduler.Data.Model;
 using vaxScheduler.models;
@@ -43,21 +42,18 @@ namespace api.Controllers
             {
                 return BadRequest("File size exceeds the limit of 10MB.");
             }
-            //generate file , guid => for preventing conflict when upload if one has same name
             var fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
-            //generate directory
             var uploadsDirectory = Path.Combine(_environment.WebRootPath, "uploads");
             Directory.CreateDirectory(uploadsDirectory);
-            //saving file
+
             var filePath = Path.Combine(uploadsDirectory, fileName);
+
             try
             {
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
-                    //Copying the uploaded file to the file system:
                     await file.CopyToAsync(stream);
                 }
-                //Storing file information in the database
                 var certificate = new Certificate { Name = fileName, FilePath = filePath, AppUserId = userId };
                 _context.Certificates.Add(certificate);
                 await _context.SaveChangesAsync();

@@ -12,8 +12,8 @@ using vaxScheduler.Data;
 namespace vaxScheduler.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240506143847_vaxSchedulermigrationProject")]
-    partial class vaxSchedulermigrationProject
+    [Migration("20240506034601_newVaxSchedulerMigration")]
+    partial class newVaxSchedulerMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -160,25 +160,30 @@ namespace vaxScheduler.Migrations
 
             modelBuilder.Entity("vaxScheduler.Data.Model.Certificate", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("CertificateId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CertificateId"));
 
-                    b.Property<string>("AppUserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<byte[]>("CertificateFilePath")
+                        .HasMaxLength(255)
+                        .HasColumnType("varbinary(255)");
 
-                    b.Property<string>("FilePath")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<DateTime>("IssueDate")
+                        .HasColumnType("datetime2");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("PatientId")
+                        .HasColumnType("int");
 
-                    b.HasKey("Id");
+                    b.Property<int>("VaccineId")
+                        .HasColumnType("int");
+
+                    b.HasKey("CertificateId");
+
+                    b.HasIndex("PatientId");
+
+                    b.HasIndex("VaccineId");
 
                     b.ToTable("Certificates");
                 });
@@ -417,6 +422,25 @@ namespace vaxScheduler.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("vaxScheduler.Data.Model.Certificate", b =>
+                {
+                    b.HasOne("vaxScheduler.Data.Model.User", "Patient")
+                        .WithMany()
+                        .HasForeignKey("PatientId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("vaxScheduler.Data.Model.Vaccine", "Vaccine")
+                        .WithMany()
+                        .HasForeignKey("VaccineId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Patient");
+
+                    b.Navigation("Vaccine");
                 });
 
             modelBuilder.Entity("vaxScheduler.Data.Model.Reservation", b =>

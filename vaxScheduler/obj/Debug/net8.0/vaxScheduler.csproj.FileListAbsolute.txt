@@ -640,3 +640,4 @@ D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Bespoke.Com
 D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\SixLabors.Fonts.dll
 D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\SixLabors.ImageSharp.dll
 D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.sourcelink.json

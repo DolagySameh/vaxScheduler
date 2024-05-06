@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace vaxScheduler.Migrations
 {
     /// <inheritdoc />
-    public partial class vaxSchedulermigrationProject : Migration
+    public partial class vaxSchedulerMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -53,21 +53,6 @@ namespace vaxScheduler.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AspNetUsers", x => x.Id);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Certificates",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    FilePath = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    AppUserId = table.Column<string>(type: "nvarchar(max)", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Certificates", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -216,6 +201,34 @@ namespace vaxScheduler.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Certificates",
+                columns: table => new
+                {
+                    CertificateId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    PatientId = table.Column<int>(type: "int", nullable: false),
+                    VaccineId = table.Column<int>(type: "int", nullable: false),
+                    CertificateFilePath = table.Column<byte[]>(type: "varbinary(255)", maxLength: 255, nullable: true),
+                    IssueDate = table.Column<DateTime>(type: "datetime2", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Certificates", x => x.CertificateId);
+                    table.ForeignKey(
+                        name: "FK_Certificates_AspNetUsers_PatientId",
+                        column: x => x.PatientId,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Certificates_Vaccines_VaccineId",
+                        column: x => x.VaccineId,
+                        principalTable: "Vaccines",
+                        principalColumn: "VaccineId",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Reservations",
                 columns: table => new
                 {
@@ -289,6 +302,16 @@ namespace vaxScheduler.Migrations
                 column: "NormalizedUserName",
                 unique: true,
                 filter: "[NormalizedUserName] IS NOT NULL");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Certificates_PatientId",
+                table: "Certificates",
+                column: "PatientId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Certificates_VaccineId",
+                table: "Certificates",
+                column: "VaccineId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Reservations_CenterId",

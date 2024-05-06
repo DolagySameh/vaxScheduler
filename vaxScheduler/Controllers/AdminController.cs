@@ -18,7 +18,7 @@ namespace vaxScheduler.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class AdminController : ControllerBase
-    {  
+    {
         public AdminController(AppDbContext db, UserManager<User> userManager, IConfiguration configuration, RoleManager<IdentityRole<int>> roleManager)
         {
             _db = db;
@@ -58,7 +58,7 @@ namespace vaxScheduler.Controllers
             return Ok(centerDTOs);
         }
 
-        
+
 
         /*                                   Add-vaccinationCenter                           */
         [HttpPost("Add-vaccinationCenter")]
@@ -76,8 +76,8 @@ namespace vaxScheduler.Controllers
 
             _db.VaccinationCenters.Add(createdCenter);
             _db.SaveChanges();
-            var user = new User { UserName = centerDTO.CenterName, Email = centerDTO.email , FirstName = centerDTO.CenterName, LastName = centerDTO.CenterName };
-            var result = await _userManager.CreateAsync(user,HashPassword(centerDTO.password));
+            var user = new User { UserName = centerDTO.CenterName, Email = centerDTO.email, FirstName = centerDTO.CenterName, LastName = centerDTO.CenterName };
+            var result = await _userManager.CreateAsync(user, HashPassword(centerDTO.password));
 
             if (result.Succeeded)
             {
@@ -141,10 +141,10 @@ namespace vaxScheduler.Controllers
             var user = _userManager.Users.FirstOrDefault(u => u.Email == existingCenter.email);
 
             if (user != null)
-            {               
-                _userManager.RemoveFromRoleAsync(user, "VaccinationCenter").Wait(); 
-                                                                                   
-                _userManager.DeleteAsync(user).Wait(); 
+            {
+                _userManager.RemoveFromRoleAsync(user, "VaccinationCenter").Wait();
+
+                _userManager.DeleteAsync(user).Wait();
             }
             _db.VaccinationCenters.Remove(existingCenter);
             _db.SaveChanges();
@@ -173,7 +173,7 @@ namespace vaxScheduler.Controllers
         /*                                          Add Vaccine                        */
         [HttpPost("vaccination-centers/{centerId}/add-vaccines")]
         [Authorize(Roles = "Admin")]
-        public ActionResult<VaccineDTO> AddVaccineForCenter([FromRoute]int centerId,[FromBody] VaccineDTO vaccineDTO)
+        public ActionResult<VaccineDTO> AddVaccineForCenter([FromRoute] int centerId, [FromBody] VaccineDTO vaccineDTO)
         {
             var center = _db.VaccinationCenters.Find(centerId);
             if (center == null)
@@ -199,7 +199,7 @@ namespace vaxScheduler.Controllers
         /*                                          update Vaccine                       */
         [HttpPut("vaccination-centers/{centerId}/update-vaccines/{vaccineId}")]
         [Authorize(Roles = "Admin")]
-        public IActionResult UpdateVaccineForCenter([FromRoute]int centerId, [FromRoute]int vaccineId,[FromBody] VaccineDTO vaccineDTO)
+        public IActionResult UpdateVaccineForCenter([FromRoute] int centerId, [FromRoute] int vaccineId, [FromBody] VaccineDTO vaccineDTO)
         {
             var existingVaccine = _db.Vaccines.FirstOrDefault(v => v.VaccineId == vaccineId && v.CenterId == centerId);
             if (existingVaccine == null)
@@ -244,7 +244,7 @@ namespace vaxScheduler.Controllers
 
         /*                                      Accept Registered User                            */
         [HttpPut("approve-registration/{userId}")]
-        [Authorize(Roles = "Admin")] 
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> ApproveRegistration(string userId)
         {
             var user = await _userManager.FindByIdAsync(userId);
@@ -279,23 +279,23 @@ namespace vaxScheduler.Controllers
 
 
 
-/*
-        [HttpPost("AddRoles")]
-        public async Task<IActionResult> CreateRole([FromBody] dtoAddRole model)
-        {
-            var roleExists = await _roleManager.RoleExistsAsync(model.name);
-            if (!roleExists)
-            {
-                var role = new IdentityRole<int>(model.name);
-                var result = await _roleManager.CreateAsync(role);
-                if (result.Succeeded)
+        /*
+                [HttpPost("AddRoles")]
+                public async Task<IActionResult> CreateRole([FromBody] dtoAddRole model)
                 {
-                    return Ok($"Role '{model.name}' created successfully");
-                }
-                return BadRequest(result.Errors);
-            }
-            return BadRequest($"Role '{model.name}' already exists");
-        }*/
+                    var roleExists = await _roleManager.RoleExistsAsync(model.name);
+                    if (!roleExists)
+                    {
+                        var role = new IdentityRole<int>(model.name);
+                        var result = await _roleManager.CreateAsync(role);
+                        if (result.Succeeded)
+                        {
+                            return Ok($"Role '{model.name}' created successfully");
+                        }
+                        return BadRequest(result.Errors);
+                    }
+                    return BadRequest($"Role '{model.name}' already exists");
+                }*/
 
         /*                                  Admin  Register only first time                              *//*
         private string HashPassword(string password)
