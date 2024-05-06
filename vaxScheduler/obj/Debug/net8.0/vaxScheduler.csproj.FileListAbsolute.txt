@@ -1,0 +1,642 @@
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\appsettings.Development.json
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\appsettings.json
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.exe
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.deps.json
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.runtimeconfig.json
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.pdb
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.AssemblyReference.cache
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfoInputs.cache
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfo.cs
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.CoreCompileInputs.cache
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets.build.json
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets.development.json
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.vaxScheduler.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.build.vaxScheduler.props
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.vaxScheduler.props
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.vaxScheduler.props
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets.pack.json
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\scopedcss\bundle\vaxScheduler.styles.css
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxSched.443E5546.Up2Date
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\refint\vaxScheduler.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.pdb
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.genruntimeconfig.cache
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\ref\vaxScheduler.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Azure.Core.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Azure.Identity.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Humanizer.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.CodeDom.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Memory.Data.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\projects\IA Sections\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.AssemblyReference.cache
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfoInputs.cache
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfo.cs
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.CoreCompileInputs.cache
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\refint\vaxScheduler.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.pdb
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\appsettings.Development.json
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\appsettings.json
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.exe
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.deps.json
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.runtimeconfig.json
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\vaxScheduler.pdb
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Azure.Core.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Azure.Identity.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Humanizer.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.CodeDom.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Memory.Data.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets.build.json
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets.development.json
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.vaxScheduler.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.build.vaxScheduler.props
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.vaxScheduler.props
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.vaxScheduler.props
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\staticwebassets.pack.json
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\scopedcss\bundle\vaxScheduler.styles.css
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxSched.443E5546.Up2Date
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\vaxScheduler.genruntimeconfig.cache
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\obj\Debug\net8.0\ref\vaxScheduler.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.barcodes.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.forms.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.io.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.kernel.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.layout.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.pdfa.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.pdfua.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.sign.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.svg.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\itext.commons.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\appsettings.json
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\vaxScheduler.exe
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\vaxScheduler.deps.json
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\vaxScheduler.runtimeconfig.json
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\vaxScheduler.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\vaxScheduler.pdb
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Humanizer.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.forms.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.io.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.layout.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.sign.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.svg.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\itext.commons.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.AssemblyReference.cache
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfoInputs.cache
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfo.cs
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.CoreCompileInputs.cache
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.vaxScheduler.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.build.vaxScheduler.props
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.vaxScheduler.props
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.vaxScheduler.props
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\scopedcss\bundle\vaxScheduler.styles.css
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxSched.443E5546.Up2Date
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\refint\vaxScheduler.dll
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.pdb
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\vaxScheduler.genruntimeconfig.cache
+C:\Users\nono\OneDrive\Documents\vaxScheduler-master\vaxScheduler\obj\Debug\net8.0\ref\vaxScheduler.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\appsettings.Development.json
+D:\anythin\vaxScheduler\bin\Debug\net8.0\appsettings.json
+D:\anythin\vaxScheduler\bin\Debug\net8.0\vaxScheduler.exe
+D:\anythin\vaxScheduler\bin\Debug\net8.0\vaxScheduler.deps.json
+D:\anythin\vaxScheduler\bin\Debug\net8.0\vaxScheduler.runtimeconfig.json
+D:\anythin\vaxScheduler\bin\Debug\net8.0\vaxScheduler.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\vaxScheduler.pdb
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Azure.Core.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Azure.Identity.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Humanizer.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.barcodes.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.forms.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.io.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.kernel.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.layout.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.pdfa.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.pdfua.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.sign.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.svg.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\itext.commons.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.CodeDom.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Memory.Data.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.AssemblyReference.cache
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfoInputs.cache
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.AssemblyInfo.cs
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.csproj.CoreCompileInputs.cache
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cs
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.MvcApplicationPartsAssemblyInfo.cache
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.sourcelink.json
+D:\anythin\vaxScheduler\obj\Debug\net8.0\staticwebassets.build.json
+D:\anythin\vaxScheduler\obj\Debug\net8.0\staticwebassets.development.json
+D:\anythin\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.vaxScheduler.Microsoft.AspNetCore.StaticWebAssets.props
+D:\anythin\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.build.vaxScheduler.props
+D:\anythin\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.vaxScheduler.props
+D:\anythin\vaxScheduler\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.vaxScheduler.props
+D:\anythin\vaxScheduler\obj\Debug\net8.0\staticwebassets.pack.json
+D:\anythin\vaxScheduler\obj\Debug\net8.0\scopedcss\bundle\vaxScheduler.styles.css
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxSched.443E5546.Up2Date
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.dll
+D:\anythin\vaxScheduler\obj\Debug\net8.0\refint\vaxScheduler.dll
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.pdb
+D:\anythin\vaxScheduler\obj\Debug\net8.0\vaxScheduler.genruntimeconfig.cache
+D:\anythin\vaxScheduler\obj\Debug\net8.0\ref\vaxScheduler.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Bespoke.Common.Osc.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\Bespoke.Common.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\anythin\vaxScheduler\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Bespoke.Common.Osc.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\Bespoke.Common.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\projects\VAx Scheduler\vaxScheduler\vaxScheduler\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll

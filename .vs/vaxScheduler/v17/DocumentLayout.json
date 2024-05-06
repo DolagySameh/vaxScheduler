@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\VAx Scheduler\\vaxScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\migrations\\20240506143847_vaxschedulermigrationproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\migrations\\20240506143847_vaxschedulermigrationproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\data\\model\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\data\\model\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Migrations\\20240506143240_vaxSchedulermigrationProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vaxScheduler\\Migrations\\20240506143240_vaxSchedulermigrationProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\vaxscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\vaxscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\models\\vaccinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\models\\vaccinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\models\\vaccinationcenterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\models\\vaccinationcenterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\models\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\models\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\models\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\models\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\models\\dtoaddrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\models\\dtoaddrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\extension\\customjwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\extension\\customjwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\data\\model\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\data\\model\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\data\\model\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\data\\model\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\data\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\data\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\controllers\\vaccinationcentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\controllers\\vaccinationcentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|d:\\projects\\vax scheduler\\vaxscheduler\\vaxscheduler\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9129789A-8536-4C51-86C2-D9D138929E13}|vaxScheduler\\vaxScheduler.csproj|solutionrelative:vaxscheduler\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nono\\OneDrive\\Documents\\vaxScheduler-master\\vaxScheduler\\Migrations\\20240505181616_vaxSchedulerMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nono\\OneDrive\\Documents\\vaxScheduler-master\\vaxScheduler\\models\\CertificateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240506143847_vaxSchedulermigrationProject.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Migrations\\20240506143847_vaxSchedulermigrationProject.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Migrations\\20240506143847_vaxSchedulermigrationProject.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Migrations\\20240506143847_vaxSchedulermigrationProject.cs",
+              "RelativeToolTip": "vaxScheduler\\Migrations\\20240506143847_vaxSchedulermigrationProject.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAQwPoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:38:47.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240506143240_vaxSchedulermigrationProject.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Migrations\\20240506143240_vaxSchedulermigrationProject.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Migrations\\20240506143240_vaxSchedulermigrationProject.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Migrations\\20240506143240_vaxSchedulermigrationProject.cs",
+              "RelativeToolTip": "vaxScheduler\\Migrations\\20240506143240_vaxSchedulermigrationProject.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:32:41.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CertificatesController.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\CertificatesController.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Controllers\\CertificatesController.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\CertificatesController.cs",
+              "RelativeToolTip": "vaxScheduler\\Controllers\\CertificatesController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:25:25.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vaxScheduler.csproj",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\vaxScheduler.csproj",
+              "RelativeDocumentMoniker": "vaxScheduler\\vaxScheduler.csproj",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\vaxScheduler.csproj",
+              "RelativeToolTip": "vaxScheduler\\vaxScheduler.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T01:54:46.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\models\\ReservationDTO.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\ReservationDTO.cs",
+              "RelativeToolTip": "vaxScheduler\\models\\ReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:54:31.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\PatientDto.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\models\\PatientDto.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\PatientDto.cs",
+              "RelativeToolTip": "vaxScheduler\\models\\PatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:47:45.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CertificateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nono\\OneDrive\\Documents\\vaxScheduler-master\\vaxScheduler\\models\\CertificateDto.cs",
+              "ToolTip": "C:\\Users\\nono\\OneDrive\\Documents\\vaxScheduler-master\\vaxScheduler\\models\\CertificateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:47:23.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\Reservation.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Data\\Model\\Reservation.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\Reservation.cs",
+              "RelativeToolTip": "vaxScheduler\\Data\\Model\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:46:17.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vaccine.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\Vaccine.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Data\\Model\\Vaccine.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\Vaccine.cs",
+              "RelativeToolTip": "vaxScheduler\\Data\\Model\\Vaccine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:33:53.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VaccineDto.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\VaccineDto.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\models\\VaccineDto.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\VaccineDto.cs",
+              "RelativeToolTip": "vaxScheduler\\models\\VaccineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:27:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VaccinationCenterDto.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\VaccinationCenterDto.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\models\\VaccinationCenterDto.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\VaccinationCenterDto.cs",
+              "RelativeToolTip": "vaxScheduler\\models\\VaccinationCenterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:13:52.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VaccinationCenter.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\VaccinationCenter.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Data\\Model\\VaccinationCenter.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\VaccinationCenter.cs",
+              "RelativeToolTip": "vaxScheduler\\Data\\Model\\VaccinationCenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:57:41.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomJwtExtension.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Extension\\CustomJwtExtension.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Extension\\CustomJwtExtension.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Extension\\CustomJwtExtension.cs",
+              "RelativeToolTip": "vaxScheduler\\Extension\\CustomJwtExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:00:14.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\models\\LoginDto.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\LoginDto.cs",
+              "RelativeToolTip": "vaxScheduler\\models\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:19:59.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\Account.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Controllers\\Account.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\Account.cs",
+              "RelativeToolTip": "vaxScheduler\\Controllers\\Account.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:45:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dtoAddRole.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\dtoAddRole.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\models\\dtoAddRole.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\dtoAddRole.cs",
+              "RelativeToolTip": "vaxScheduler\\models\\dtoAddRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:48:28.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240505181616_vaxSchedulerMigration.cs",
+              "DocumentMoniker": "C:\\Users\\nono\\OneDrive\\Documents\\vaxScheduler-master\\vaxScheduler\\Migrations\\20240505181616_vaxSchedulerMigration.cs",
+              "ToolTip": "C:\\Users\\nono\\OneDrive\\Documents\\vaxScheduler-master\\vaxScheduler\\Migrations\\20240505181616_vaxSchedulerMigration.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAQwAcBAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:16:16.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\models\\RegisterDto.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\models\\RegisterDto.cs",
+              "RelativeToolTip": "vaxScheduler\\models\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:56:35.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\appsettings.json",
+              "RelativeDocumentMoniker": "vaxScheduler\\appsettings.json",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\appsettings.json",
+              "RelativeToolTip": "vaxScheduler\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T09:37:37.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Program.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Program.cs",
+              "RelativeToolTip": "vaxScheduler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:37:34.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "vaxScheduler\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAA/wCkBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:18:42.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Startup.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Startup.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Startup.cs",
+              "RelativeToolTip": "vaxScheduler\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:19:22.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "vaxScheduler\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAUwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:16:24.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "vaxScheduler\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:15:01.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\User.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Data\\Model\\User.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\User.cs",
+              "RelativeToolTip": "vaxScheduler\\Data\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:13:12.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\Certificate.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Data\\Model\\Certificate.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Data\\Model\\Certificate.cs",
+              "RelativeToolTip": "vaxScheduler\\Data\\Model\\Certificate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:13:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VaccinationCenterController.cs",
+              "DocumentMoniker": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\VaccinationCenterController.cs",
+              "RelativeDocumentMoniker": "vaxScheduler\\Controllers\\VaccinationCenterController.cs",
+              "ToolTip": "D:\\projects\\VAx Scheduler\\vaxScheduler\\vaxScheduler\\Controllers\\VaccinationCenterController.cs",
+              "RelativeToolTip": "vaxScheduler\\Controllers\\VaccinationCenterController.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAUwNkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:12:10.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
